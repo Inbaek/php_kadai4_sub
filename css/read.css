@@ -1,0 +1,26 @@
+table {
+    margin:auto;
+    text-align:center;
+    
+}
+
+th {
+    padding: 5px;
+}
+
+td {
+    padding: 5px;
+}
+
+form {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+div{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+
+}
